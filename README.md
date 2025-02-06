@@ -1,10 +1,5 @@
 # ※ikemen
 
-![CI](https://github.com/banjun/ikemen/workflows/CI/badge.svg)
-[![Version](https://img.shields.io/cocoapods/v/※ikemen.svg?style=flat)](http://cocoapods.org/pods/※ikemen)
-[![License](https://img.shields.io/cocoapods/l/※ikemen.svg?style=flat)](http://cocoapods.org/pods/※ikemen)
-[![Platform](https://img.shields.io/cocoapods/p/※ikemen.svg?style=flat)](http://cocoapods.org/pods/※ikemen)
-
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -19,13 +14,7 @@ let r = Rabbit() ※ {$0.ikemen = true}
 ## Requirements
 
 ## Installation
-
-※ikemen is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod "※ikemen"
-```
+SPM
 
 ## Author
 
